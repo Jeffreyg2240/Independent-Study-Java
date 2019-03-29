@@ -19,4 +19,4 @@
 [Entry 8: _______](entries/Entry_8.md)
 <br><br>
 [Entry 9: _______](entries/Entry_9.md)
-</b></center>git commit -m "first commit"
+</b></center>
