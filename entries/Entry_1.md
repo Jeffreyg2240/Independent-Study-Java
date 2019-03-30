@@ -95,8 +95,9 @@ class Geek
 
 ```
 
-
 <br><img src="https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/4ps.PNG?raw=true">
 <br><img src="https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/4psv2.PNG?raw=true"><br>
+
+Currently I am just tinkering around with the online repository and trying to understand them, but I don't have a planned out next step apart from doing the online courses.
 
 <b>[Next &rarr;](Entry_2.md) | [README])(../README.md)</b>
