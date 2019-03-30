@@ -1,2 +1,2 @@
 ### Week 1:
-<b>[Last Entry](Entry_9.md) | [README](../README.md)</b>
+<b>[Next &rarr;](Entry_2.md) | [README](../README.md)</b>
