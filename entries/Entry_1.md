@@ -100,4 +100,4 @@ class Geek
 
 Currently I am just tinkering around with the online repository and trying to understand them, but I don't have a planned out next step apart from doing the online courses.
 
-<b>[Next &rarr;](Entry_2.md) | [README])(../README.md)</b>
+<b>[Next &rarr;](Entry_2.md) | [README](../README.md)</b>
