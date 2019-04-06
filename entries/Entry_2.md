@@ -3,6 +3,8 @@
 **JDK**: Java Development Kit
 System.out.print vs System.out.println
 System.out.println line breaks for the characters, System.out.print doesn’t.
+println allows the text after it to spike a line, while print would remain on the same line, just like 'puts' vs 'prints'
+
 Outputs and strings can be concatanted using “+”
 ```java
 String username = "PrinceNelson";
@@ -13,8 +15,6 @@ System.out.println("Your username is: " + username);
 ```
 Just like python, ruby and JS, Java uses the same or similar symbols for math and conditionals
 
-System.out.print vs System.out.println
-.equals if two strings are equal to each other
 ```java
 +
 - 
@@ -129,6 +129,6 @@ String.format(“%.2f”, any double) is used to limit the decimal point to two 
 After finishing Codecademy, I started working on Udemy's Java course, after a while of structured learning I decided to roam freely and revisit documentations. In the past, I remember being interested in BCIs, so I decided to look up what BCI implantations are within Java thus far. I ended up not finding much, as it was much more popular in Python. After browsing through countless documentations I came upon an eye-tracking program, JGazed based in Java. I ended up looking deeper into the documentation and might work on a game surrounding it for my independent study program.
 #### Takeaways. 
 Java’s math and conditions and loops are really similar to the other languages we’ve learned, meaning, if you learning one thing somewhere, don’t forget it, you can always apply it elsewhere, especially when it comes to mathematics, science, and programming languages.
-<br>Also remember to take notes to everything you learn, especially from documentations, because most brains cannot retain all the information after hours of browsing.<br><br>**“sysout”** is abbreviation for **“System.out.println”**.
+<br>Also remember to take notes to everything you learn, especially from documentations, because most brains cannot retain all the information after hours of browsing.<br><br>**“sysout”** + shift + space is abbreviation for **“System.out.println”**.
 
 <b>[&larr; Back](Entry_1.md)  | [Next &rarr;](Entry_3.md) | [README](../README.md)</b>
