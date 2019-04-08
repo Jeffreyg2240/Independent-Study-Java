@@ -4,7 +4,7 @@
 <br><b>
 [Entry 1: Picking a Topic - Java](entries/Entry_1.md)
 <br><br>
-[Entry 2: _______](entries/Entry_2.md)
+[Entry 2: Learning Basic Syntax](entries/Entry_2.md)
 <br><br>
 [Entry 3: _______](entries/Entry_3.md)
 <br><br>
