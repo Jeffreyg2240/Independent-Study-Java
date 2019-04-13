@@ -1,2 +1,90 @@
 ### Week 3:
+During week 3, I decided to move away from Udemy for a bit and learn by myself, although I often took the challenge problems from Udemy and tested it on <b>IntelliJ</b> which is a Jave IDE.
+<br>
+At first I started to learn about arraries then moved towards reading user inputs, like if like "get.chomp" in Ruby. Afterwards I learned how to <i>"parse"</i> an array meaning turning it from a string to a integer, to a double, and vice versa.
+<br>While testing it out I found that if I tried to parse an string that contained alphabets or symbols into a double or integer, the code would fail to run.
+<br><br>** Note look at the comments of the code for description and explanation. 
+```java
+//Break
+ for (int i = 0; i < 10; i++) {
+  if (i == 4) {
+    break;
+  }
+  System.out.println(i);
+} 
+0
+1
+2
+3
+//Continue 
+for (int i = 0; i < 10; i++) {
+  if (i == 4) {
+    continue;
+  }
+  System.out.println(i);
+} 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+```
+
+Arrays in Java: 
+```java
+// You don’t have to declare cars as string, it can also be boolean, char, int, or any other data type within Java.
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+// You use <b>curly brackets “{}”</b> to declare arrays instead of <b>brackets “[]”</b>
+System.out.println(cars[0]);
+//Will print Volvo
+cars[0] = "Opel";
+System.out.println(cars[0]);
+//Volvo has been replaced by Opel, thus Opel will appear on the screen.
+System.out.println(cars.length);
+//4
+
+
+```
+Declaring arrays within array
+<b>Also remember that arrays also start at 0.</b>
+```java
+int[][] commonDigits = {{},{}};
+commonDigits[0][0] = int 5;
+// {{5},{}}
+commonDigits[0][1] = int 4;
+commonDigits[0][2] = int 12;
+commonDigits[1][0] = int 54;
+// {{5, 4, 12},{54}}
+```
+.parse.int will convert a string or char or boolean into a integer. This will only work whatever is being converted is a number, if it contains a symbol or letter, an error will appear.
+
+```java
+String number = "10";
+int result = Integer.parseInt(number);	
+number += 1
+result += 1;		
+System.out.println(result);
+//11
+System.out.println(number);
+//101
+int resultInDouble = Double.parseDouble(result);	
+System.out.println(resultInDouble);
+//11.0
+```
+As you can see this works for most of the major data types for Java like <b>char, long, int, String, and double.</b>
+
+
+Although <b>Udemy</b> doesn’t teach <b>JFrame</b> until much later, I’ve decided to look at other documentation based around it.
+Creating JFrame
+The frame is an instance of the JFrame class, which opens a window with text-decorations such as borders, title, and buttons. 
+** GUIs usually contain 1 or more frame **
+<img src = '../images/jf2.JPG'>
+
+#### Takeaways: 
 <b>[&larr; Back](Entry_2.md)  | [Next &rarr;](Entry_4.md) | [README](../README.md)</b>

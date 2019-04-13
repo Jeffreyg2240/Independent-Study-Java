@@ -6,7 +6,7 @@
 <br><br>
 [Entry 2: Learning Basic Syntax](entries/Entry_2.md)
 <br><br>
-[Entry 3: _______](entries/Entry_3.md)
+[Entry 3: Learning JFrame and User Inputs](entries/Entry_3.md)
 <br><br>
 [Entry 4: _______](entries/Entry_4.md)
 <br><br>
