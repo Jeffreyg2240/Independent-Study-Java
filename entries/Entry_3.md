@@ -84,7 +84,8 @@ Although <b>Udemy</b> doesn’t teach <b>JFrame</b> until much later, I’ve dec
 Creating JFrame
 The frame is an instance of the JFrame class, which opens a window with text-decorations such as borders, title, and buttons. 
 ** GUIs usually contain 1 or more frame **
-<img src = '../images/jf2.JPG'>
+<img src = 'https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/jf2.JPG?raw=true' width = '1200px'>
+<img src = 'https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/jframe.JPG?raw=true' width = '1200px'>
 
 #### Takeaways: 
 <b>[&larr; Back](Entry_2.md)  | [Next &rarr;](Entry_4.md) | [README](../README.md)</b>
