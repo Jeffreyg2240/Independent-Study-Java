@@ -81,11 +81,34 @@ As you can see this works for most of the major data types for Java like <b>char
 
 
 Although <b>Udemy</b> doesn’t teach <b>JFrame</b> until much later, I’ve decided to look at other documentation based around it.
-Creating JFrame
+Creating JFrame<br>
+
 The frame is an instance of the JFrame class, which opens a window with text-decorations such as borders, title, and buttons. 
-** GUIs usually contain 1 or more frame **
+** GUIs usually contain 1 or more frame or panels**
+<img src='https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/jframe3.JPG?raw=true'>
+Here is an example of a button in a frame<br>
 <img src = 'https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/jf2.JPG?raw=true' width = '1200px'>
 <img src = 'https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/jframe.JPG?raw=true' width = '1200px'>
 
+<a href = “https://javatutorial.net/swing-jframe-basics-create-jframe”>Creating JFrame</a><br>
+<b>JFrame()</b>: creates a frame which is invisible<br>
+<b>JFrame(GraphicsConfiguration gc)</b>: creates a frame with a blank title and graphics configuration of screen device.<br>
+<b>JFrame(String title)</b>: creates a JFrame with a title.<br>
+<b>JFrame(String title, GraphicsConfiguration gc)</b>: creates a JFrame with specific Graphics configuration and specified title.<br>
+
+I’ve been still tinkering around with JFrame, but most of the code is confusing and I’m learning as I go. During the weekend I’ve moved back towards <b>Udemy</b> and working more on the courses until I come upon JFrame.
+Although <b>Udemy</b> doesn’t teach JFrame until much later, I’ve decided to look at other documentation based around it.
 #### Takeaways: 
+
+
+Takeaways, depending on what IDE you are using, sometimes the files will be <b>‘import’</b>ed for you.
+```java
+import java.awt.*;
+import javax.swing.*;
+
+```
+<br>
+Don't always go to ahead of else you will get stuck, you pace your learn evenly.
+
+
 <b>[&larr; Back](Entry_2.md)  | [Next &rarr;](Entry_4.md) | [README](../README.md)</b>
