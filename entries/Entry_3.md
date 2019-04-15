@@ -3,7 +3,7 @@ During week 3, I decided to move away from Udemy for a bit and learn by myself, 
 <br>
 At first I started to learn about arraries then moved towards reading user inputs, like if like "get.chomp" in Ruby. Afterwards I learned how to <i>"parse"</i> an array meaning turning it from a string to a integer, to a double, and vice versa.
 <br>While testing it out I found that if I tried to parse an string that contained alphabets or symbols into a double or integer, the code would fail to run.
-<br><br>** Note look at the comments of the code for description and explanation. 
+<br><br>*** Note look at the comments of the code for description and explanation. ***
 ```java
 //Break
  for (int i = 0; i < 10; i++) {
@@ -79,9 +79,30 @@ System.out.println(resultInDouble);
 ```
 As you can see this works for most of the major data types for Java like <b>char, long, int, String, and double.</b>
 
+#### Scanner class
+<br>Scanner is a built-in class within Java to get user input<br>
+You usually want to parse the user input because for the most part, they’re strings.
+Scanner is a built-in class within Java to get user input
+```java
+Scanner scanner = new.Scanner(print.in);
+//Returns true of false depending on if the number entered is an int;
+scanner.nextLine();
+boolean isAnInt = scanner.hasNextInt();
+//All scanners need a scanner close to declare that the scanner is finished so that it can be redeclared. It is like a private class, scanner variable is not saved buy isAnAnt is.
+scanner.close();
 
+//Example:
+//takes what every the user types in the next line as the user name
+System.out.println("Enter your username: "); 
+Scanner scanner = new Scanner(System.in); 
+String username = scanner.nextLine(); 
+System.out.println("Your username is " + username);
+
+```
+
+#### Creating JFrame
+<br>
 Although <b>Udemy</b> doesn’t teach <b>JFrame</b> until much later, I’ve decided to look at other documentation based around it.
-Creating JFrame<br>
 
 The frame is an instance of the JFrame class, which opens a window with text-decorations such as borders, title, and buttons. 
 ** GUIs usually contain 1 or more frame or panels**
