@@ -1,7 +1,7 @@
 ### Week 3:
 During week 3, I decided to move away from Udemy for a bit and learn by myself, although I often took the challenge problems from Udemy and tested it on <b>IntelliJ</b> which is a Jave IDE.
 <br>
-At first I started to learn about arraries then moved towards reading user inputs, like if like "get.chomp" in Ruby. Afterwards I learned how to <i>"parse"</i> an array meaning turning it from a string to a integer, to a double, and vice versa.
+At first I started to learn about arrays then moved towards reading user inputs, like if like "get.chomp" in Ruby. Afterwards I learned how to <i>"parse"</i> an array meaning turning it from a string to a integer, to a double, and vice versa.
 <br>While testing it out I found that if I tried to parse an string that contained alphabets or symbols into a double or integer, the code would fail to run.
 <br><br>*** Note look at the comments of the code for description and explanation. ***
 ```java
@@ -129,7 +129,7 @@ import javax.swing.*;
 
 ```
 <br>
-Don't always go to ahead of else you will get stuck, you pace your learn evenly.
+Don't always go to ahead or else you will get stuck, pace your learning evenly.
 
 
 <b>[&larr; Back](Entry_2.md)  | [Next &rarr;](Entry_4.md) | [README](../README.md)</b>
