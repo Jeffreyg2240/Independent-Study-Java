@@ -75,7 +75,7 @@ You are importing the whole library from <b>javax.swing</b> and <b>java.awt</b> 
 <br><img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/week%204%201.JPG?raw=true">
 <br>When Game over.<br>
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/week%204%201.JPG?raw=true">
-<b>I have yet to work on a winning funcationality and a random funcationality, so that ball will always spawn in the same spot with the same direction every time.</b>
+<br><b>I have yet to work on a winning funcationality and a random funcationality, so that ball will always spawn in the same spot with the same direction every time.</b>
 <br>
 ### Notes:
 <br>If you set something = **null**, it forces a error(crash).
