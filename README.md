@@ -8,7 +8,7 @@
 <br><br>
 [Entry 3: Learning JFrame and User Inputs](entries/Entry_3.md)
 <br><br>
-[Entry 4: _______](entries/Entry_4.md)
+[Entry 4: Contiuning JFrame and learning about Key/Events with Brick Breaker](entries/Entry_4.md)
 <br><br>
 [Entry 5: _______](entries/Entry_5.md)
 <br><br>
