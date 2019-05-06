@@ -10,7 +10,7 @@
 <br><br>
 [Entry 4: Contiuning JFrame and learning about Key/Events with Brick Breaker](entries/Entry_4.md)
 <br><br>
-[Entry 5: _______](entries/Entry_5.md)
+[Entry 5: Building Snake](entries/Entry_5.md)
 <br><br>
 [Entry 6: _______](entries/Entry_6.md)
 <br><br>
