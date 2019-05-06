@@ -29,8 +29,8 @@ These are self explanatory
 <hr>
 Here is a gif of the snake game I used, I found most of the graphics online, the target, snake head, and body are all 25x25 pixels.
 <br>
-<br><img src="https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/SnakeR.gif?raw=true">
-<br>
+<br><img src="https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/SnakeR.gif?raw=true" width=200% height=200%>
+<br><font size="2" color="gray">(Yes, I got "his" permission)</font><br>
 *I forgot to put in what happens when space is clicked, so here it is
 <img src = "https://github.com/Jeffreyg2240/Independent-Study-Java/blob/master/images/replay.JPG?raw=true">
 <hr>
