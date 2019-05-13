@@ -51,4 +51,6 @@ This took way to much time for me to learn about how to run multiple instances o
 For anyone curious, I am running my Java program based of a server-client system
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png">
 Although I'll still have to test this on the school computers to see if it works.
+
+
 <b>[&larr; Back](Entry_5.md)  | [Next &rarr;](Entry_7.md) | [README](../README.md)</b>
