@@ -1,7 +1,7 @@
 ### Week 6:
 During we 6 our group decided that we needed to take a stand to what game we are making. After 3 days of bickering, we settled in programming a variation of “bomber-man”. We haven’t assigned roles yet, although we really need to since this is already over two-thirds of the way into the 9-week independent study.
 <br>
-Here are the beginnings of our pseudocode.
+Here are the beginnings of our pseudocode.<br>
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/psu1.JPG">
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/psu2.JPG">
 <br><br>
@@ -14,7 +14,7 @@ We’re planning to start working on the project next week, with this __week con
 ##### Sidenote:
 If you are running your server locally, you can get use __"localhost"__ or use the __IP of your personal computer_. **Look at the screenshot if you are using windows**<br>
 If you are on a windows device and you want to find your local IP, not host IP, then type __“ipconfig/all”__ in the command prompt.<br>
-
+Here is what I got up to so far this week, I can enable 4 people to connect to a chat client with the prompt.
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/ipcongif.JPG">
 <br>
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/server-client%20chat.gif">
