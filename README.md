@@ -12,7 +12,7 @@
 <br><br>
 [Entry 5: Building Snake](entries/Entry_5.md)
 <br><br>
-[Entry 6: _______](entries/Entry_6.md)
+[Entry 6: Multiplayer](entries/Entry_6.md)
 <br><br>
 [Entry 7: _______](entries/Entry_7.md)
 <br><br>
