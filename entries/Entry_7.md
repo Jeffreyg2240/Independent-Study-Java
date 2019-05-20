@@ -11,6 +11,7 @@ The next step is the grab the graphics for each item, **WHEN** (and **IF**) we i
 
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/Eevee.png">
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/editing.JPG">
+
 ##### Note: Notice the blue border around the sprite, this happened to almost every sprite and was a pain to remove.
 
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/editting.JPG">
