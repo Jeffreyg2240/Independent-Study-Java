@@ -18,10 +18,15 @@ The next step is the grab the graphics for each item, **WHEN** (and **IF**) we i
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/voltorb.png">
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/pikachu.png">
 The command is:
+
 ```java
 java -cp gdx.jar;extensions/gdx-tools/gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker inputDir [outputDir] [packFileName]
 ```
+
+
 [Watch this video for more information](https://www.youtube.com/watch?v=ScdrCd8w_7Q&t=110s)
+
+
 
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/texturepacker.JPG">
 #### Result:
