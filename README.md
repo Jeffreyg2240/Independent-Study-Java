@@ -14,7 +14,7 @@
 <br><br>
 [Entry 6: Multiplayer](entries/Entry_6.md)
 <br><br>
-[Entry 7: _______](entries/Entry_7.md)
+[Entry 7: Sprites and music](entries/Entry_7.md)
 <br><br>
 [Entry 8: _______](entries/Entry_8.md)
 <br><br>
