@@ -17,7 +17,6 @@ The next step is the grab the graphics for each item, **WHEN** (and **IF**) we i
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/editting.JPG">
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/voltorb.png">
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/pikachu.png">
-<img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/texturepacker.JPG">
 The command is:
 ```java
 java -cp gdx.jar;extensions/gdx-tools/gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker inputDir [outputDir] [packFileName]
