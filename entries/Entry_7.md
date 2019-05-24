@@ -23,7 +23,7 @@ The command is:
 java -cp gdx.jar;extensions/gdx-tools/gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker inputDir [outputDir] [packFileName]
 ```
 
-
+cd 
 [Watch this video for more information](https://www.youtube.com/watch?v=ScdrCd8w_7Q&t=110s)
 
 
