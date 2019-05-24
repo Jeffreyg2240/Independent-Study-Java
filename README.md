@@ -12,11 +12,11 @@
 <br><br>
 [Entry 5: Building Snake](entries/Entry_5.md)
 <br><br>
-[Entry 6: Multiplayer](entries/Entry_6.md)
+[Entry 6: Multiplayer???](entries/Entry_6.md)
 <br><br>
 [Entry 7: Sprites and music](entries/Entry_7.md)
 <br><br>
-[Entry 8: _______](entries/Entry_8.md)
+[Entry 8: MVP](entries/Entry_8.md)
 <br><br>
 [Entry 9: _______](entries/Entry_9.md)
 </b></center>
