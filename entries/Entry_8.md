@@ -11,7 +11,7 @@ Bird stuck to the left side of the screen
 Bird's animation looks off point
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/problem2.gif">
 <br>
-Finished 
+Finished product
 <img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/product.gif">
 
 
