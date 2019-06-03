@@ -18,5 +18,5 @@
 <br><br>
 [Entry 8: MVP](entries/Entry_8.md)
 <br><br>
-[Entry 9: _______](entries/Entry_9.md)
+[Entry 9: Polishing](entries/Entry_9.md)
 </b></center>
