@@ -27,6 +27,6 @@ You don't have to use everything you learned. A few weeks back I learned about s
 
 <br>
 
-We will probably spend the time between our now and our presentation working on the slides and patching the game up. 
+We will probably spend the time between now and our presentation working on the slides and patching the game up. 
 
 <b>[&larr; Back](Entry_8.md) | [First Entry](Entry_1.md) | [README](../README.md)</b>
