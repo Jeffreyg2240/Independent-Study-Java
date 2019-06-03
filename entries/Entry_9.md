@@ -10,10 +10,10 @@ Sound sound = Gdx.audio.newSound(Gdx.files.internal(song[i]));
 ```
 
 Overall I wouldn’t call this game anywhere near complete, but we polished what we had thus far and fixed a lot of bugs. The more I advanced the project the more bugs there were, it felt like as if I was using Flex Tape to seal the project together. 
-<img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/product2.gif">
+<br><img src = "https://raw.githubusercontent.com/Jeffreyg2240/Independent-Study-Java/master/images/Finalproduct2.gif">
 
 ### Takeaways:
-Work with what you **HAVE**, don’t keep trying to push foward when your previous step was incomplete. I should’ve worked more on actual polishing than adding since it introduced a LOT of bugs and took a long time to fix those bugs in addition to the already existing ones.
+Work with what you **HAVE**, don’t keep trying to push *forward* when your previous step was *incomplete*. I should’ve worked more on actual polishing than adding since it introduced a LOT of bugs and took a long time to fix those bugs in addition to the already existing ones.
 
 
 <b>[&larr; Back](Entry_8.md) | [First Entry](Entry_1.md) | [README](../README.md)</b>
